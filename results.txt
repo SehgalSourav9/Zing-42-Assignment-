@@ -1,0 +1,983 @@
+2022-10-25
+1
+2022-10-24
+2
+2022-10-23
+3
+2022-10-22
+3
+2022-10-21
+3
+2022-10-20
+4
+2022-10-19
+5
+2022-10-18
+6
+2022-10-17
+7
+2022-10-16
+8
+2022-10-15
+8
+2022-10-14
+8
+2022-10-13
+9
+2022-10-12
+10
+2022-10-11
+11
+2022-10-10
+12
+2022-10-09
+13
+2022-10-08
+13
+2022-10-07
+13
+2022-10-06
+14
+2022-10-05
+15
+2022-10-04
+15
+2022-10-03
+16
+2022-10-02
+17
+2022-10-01
+17
+2022-09-30
+17
+2022-09-29
+18
+2022-09-28
+19
+2022-09-27
+20
+2022-09-26
+21
+2022-09-25
+22
+2022-09-24
+22
+2022-09-23
+22
+2022-09-22
+23
+2022-09-21
+24
+2022-09-20
+25
+2022-09-19
+26
+2022-09-18
+27
+2022-09-17
+27
+2022-09-16
+27
+2022-09-15
+28
+2022-09-14
+29
+2022-09-13
+30
+Data Used for 30 days is for the following dates:
+[datetime.date(2022, 10, 25), datetime.date(2022, 10, 24), datetime.date(2022, 10, 21), datetime.date(2022, 10, 20), datetime.date(2022, 10, 19), datetime.date(2022, 10, 18), datetime.date(2022, 10, 17), datetime.date(2022, 10, 14), datetime.date(2022, 10, 13), datetime.date(2022, 10, 12), datetime.date(2022, 10, 11), datetime.date(2022, 10, 10), datetime.date(2022, 10, 7), datetime.date(2022, 10, 6), datetime.date(2022, 10, 4), datetime.date(2022, 10, 3), datetime.date(2022, 9, 30), datetime.date(2022, 9, 29), datetime.date(2022, 9, 28), datetime.date(2022, 9, 27), datetime.date(2022, 9, 26), datetime.date(2022, 9, 23), datetime.date(2022, 9, 22), datetime.date(2022, 9, 21), datetime.date(2022, 9, 20), datetime.date(2022, 9, 19), datetime.date(2022, 9, 16), datetime.date(2022, 9, 15), datetime.date(2022, 9, 14), datetime.date(2022, 9, 13)]
+Date of Latest BhavCopy file is:  2022-10-25
+Query 1 Result
+                              NAME OF COMPANY     GAINS
+0         California Software Company Limited  0.174020
+1                         Digicontent Limited  0.144543
+2                               Bank of India  0.104697
+3                    Regency Ceramics Limited  0.102996
+4   Nagreeka Capital & Infrastructure Limited  0.094595
+5                      Piramal Pharma Limited  0.093810
+6                     NACL Industries Limited  0.092732
+7               The South Indian Bank Limited  0.086777
+8   Multi Commodity Exchange of India Limited  0.085166
+9                              Nureca Limited  0.080121
+10                  Mahalaxmi Rubtech Limited  0.079479
+11           The Jammu & Kashmir Bank Limited  0.076479
+12                    Adroit Infotech Limited  0.074534
+13                      Mahanagar Gas Limited  0.074330
+14                     Bharat Rasayan Limited  0.069480
+15               Rajratan Global Wire Limited  0.068347
+16     Eurotex Industries and Exports Limited  0.068293
+17                    Hind Rectifiers Limited  0.067981
+18                   CMS Info Systems Limited  0.066249
+19                   Refex Industries Limited  0.065646
+20                   Indraprastha Gas Limited  0.064499
+21                     KEI Industries Limited  0.063919
+22           Bharat Heavy Electricals Limited  0.063575
+23                 Salzer Electronics Limited  0.063495
+24                        Modi Rubber Limited  0.063043
+Query 2 Results
+Result 1
+Bhavcopy data is for data: 2022-10-25
+                                  NAME OF COMPANY     GAINS
+0              Omkar Speciality Chemicals Limited  0.200000
+1                       Mahalaxmi Rubtech Limited  0.197948
+2                           Suzlon Energy Limited  0.178344
+3                           Indo-National Limited  0.164900
+4                           Alkali Metals Limited  0.154489
+5       Yaari Digital Integrated Services Limited  0.150146
+6                           RKEC Projects Limited  0.097534
+7                         Aegis Logistics Limited  0.090182
+8                        Gayatri Projects Limited  0.086466
+9                      DELPHI WORLD MONEY LIMITED  0.084079
+10                          Bang Overseas Limited  0.078313
+11                Accelya Solutions India Limited  0.075921
+12                  Syngene International Limited  0.072924
+13                        Deep Industries Limited  0.071747
+14                   AVT Natural Products Limited  0.070859
+15                    Venus Pipes & Tubes Limited  0.069882
+16                    PNB Housing Finance Limited  0.069686
+17                           E2E Networks Limited  0.069444
+18         Container Corporation of India Limited  0.068213
+19                         Kuantum Papers Limited  0.068175
+20              Bombay Super Hybrid Seeds Limited  0.067986
+21  Landmark Property Development Company Limited  0.067797
+22          Dc Infotech And Communication Limited  0.067213
+23                             Antarctica Limited  0.066667
+24                  EIH Associated Hotels Limited  0.066596
+Result 2
+Bhavcopy data is for data: 2022-10-24
+                                     NAME OF COMPANY     GAINS
+0   Lakshmi Finance & Industrial Corporation Limited  0.187895
+1                       Neuland Laboratories Limited  0.171253
+2                               Foods & Inns Limited  0.161980
+3                                 Omax Autos Limited  0.152344
+4                               Orient Press Limited  0.151079
+5                               AGI Greenpac Limited  0.136324
+6                              Suzlon Energy Limited  0.129412
+7                              Tera Software Limited  0.125134
+8                         Remsons Industries Limited  0.124696
+9                        Royal Orchid Hotels Limited  0.117625
+10                  Kriti Industries (India) Limited  0.109358
+11                         KPIT Technologies Limited  0.106406
+12                       Autoline Industries Limited  0.099656
+13                               Dangee Dums Limited  0.098291
+14         Ansal Properties & Infrastructure Limited  0.097800
+15                             Dish TV India Limited  0.094595
+16         Schneider Electric Infrastructure Limited  0.089542
+17                   Indian Terrain Fashions Limited  0.084695
+18                           Themis Medicare Limited  0.083251
+19                        Celebrity Fashions Limited  0.081013
+20                      Hilton Metal Forging Limited  0.078682
+21                                   Archies Limited  0.077320
+22             Healthcare Global Enterprises Limited  0.075173
+23                           B.C. Power Controls Ltd  0.072165
+24                           Medico Remedies Limited  0.071939
+Result 3
+Bhavcopy data is for data: 2022-10-21
+                            NAME OF COMPANY     GAINS
+0   Wealth First Portfolio Managers Limited  0.137279
+1                MBL Infrastructure Limited  0.117801
+2                Smartlink Holdings Limited  0.102397
+3                    Akshar Spintex Limited  0.098187
+4               C & C Constructions Limited  0.095238
+5         Silly Monks Entertainment Limited  0.095149
+6                    D-Link (India) Limited  0.092273
+7             S&S Power Switchgears Limited  0.088346
+8              Inspirisys Solutions Limited  0.087409
+9                             Mazda Limited  0.081886
+10                DRC Systems India Limited  0.081181
+11                 Techindia Nirman Limited  0.079861
+12           FCS Software Solutions Limited  0.078431
+13                 Universal Cables Limited  0.077391
+14                         Weizmann Limited  0.074095
+15                Hindcon Chemicals Limited  0.073457
+16       GVK Power & Infrastructure Limited  0.071429
+17                Mangalam Organics Limited  0.070402
+18                     Sreeleathers Limited  0.070111
+19           AXISCADES Technologies Limited  0.069730
+20                   TruCap Finance Limited  0.068045
+21                        Atul Auto Limited  0.065142
+22                   Dynamic Cables Limited  0.064834
+23                Metalyst Forgings Limited  0.059524
+24                           Kopran Limited  0.058573
+Result 4
+Bhavcopy data is for data: 2022-10-20
+                                      NAME OF COMPANY     GAINS
+0                         Delta Manufacturing Limited  0.226562
+1                               Alkali Metals Limited  0.203214
+2                           Mahalaxmi Rubtech Limited  0.178465
+3                                    Atlanta  Limited  0.154135
+4                             B.C. Power Controls Ltd  0.120000
+5               IRB Infrastructure Developers Limited  0.102097
+6           Aptus Value Housing Finance India Limited  0.098013
+7                               Suzlon Energy Limited  0.095588
+8                            Rama Steel Tubes Limited  0.095101
+9                   Silver Touch Technologies Limited  0.089687
+10                            Next Mediaworks Limited  0.083333
+11  Deepak Fertilizers and Petrochemicals Corporat...  0.080705
+12                     Godfrey Phillips India Limited  0.076718
+13                               Metro Brands Limited  0.075462
+14                                Uma Exports Limited  0.074074
+15                 BLS International Services Limited  0.073490
+16                      Grauer & Weil (India) Limited  0.072571
+17                            Ram Ratna Wires Limited  0.072195
+18                            Archidply Decor Limited  0.071090
+19                              Bang Overseas Limited  0.070883
+20                      Data Patterns (India) Limited  0.070008
+21                              RPSG VENTURES LIMITED  0.067685
+22                                  Anant Raj Limited  0.064500
+23                        Royal Orchid Hotels Limited  0.064259
+24                   Hindware Home Innovation Limited  0.063426
+Result 5
+Bhavcopy data is for data: 2022-10-19
+                                      NAME OF COMPANY     GAINS
+0                            Techindia Nirman Limited  0.197970
+1                        HPL Electric & Power Limited  0.185906
+2                        Gokul Agro Resources Limited  0.183333
+3                    Rudrabhishek Enterprises Limited  0.135526
+4   Jindal Poly Investment and Finance Company Lim...  0.123874
+5                    Universus Photo Imagings Limited  0.116894
+6                                Exxaro Tiles Limited  0.109075
+7                                Geekay Wires Limited  0.104310
+8                                       Mazda Limited  0.104088
+9                         Tracxn Technologies Limited  0.103550
+10                            Sharda Cropchem Limited  0.085484
+11                             Sakuma Exports Limited  0.084211
+12                             TCI Developers Limited  0.083790
+13                              Vikas EcoTech Limited  0.081081
+14                            Agro Tech Foods Limited  0.080430
+15                                       NAVA LIMITED  0.079947
+16                  Gokul Refoils and Solvent Limited  0.079882
+17                       Akash Infra-Projects Limited  0.079433
+18           DB (International) Stock Brokers Limited  0.076233
+19              Eldeco Housing And Industries Limited  0.076133
+20                           Nandani Creation Limited  0.076132
+21                     Raj Television Network Limited  0.074519
+22                       Pressman Advertising Limited  0.070842
+23                                 AYM Syntex Limited  0.070413
+24                          Agri-Tech (India) Limited  0.069027
+Result 6
+Bhavcopy data is for data: 2022-10-18
+                                NAME OF COMPANY     GAINS
+0                        Iris Clothings Limited  0.184067
+1                                   CMI Limited  0.182561
+2                     GPT Infraprojects Limited  0.177834
+3                             Anant Raj Limited  0.168573
+4                    Adani Green Energy Limited  0.128200
+5                              Atlanta  Limited  0.117117
+6   Transformers And Rectifiers (India) Limited  0.115996
+7                     Radhika Jeweltech Limited  0.109477
+8               Simplex Infrastructures Limited  0.109206
+9                     RPG Life Sciences Limited  0.105353
+10         Supreme Infrastructure India Limited  0.102625
+11                        Alkali Metals Limited  0.100000
+12                    The India Cements Limited  0.096130
+13                              Alembic Limited  0.087237
+14                       Zenith Exports Limited  0.085992
+15             Kavveri Telecom Products Limited  0.085859
+16                       TCPL Packaging Limited  0.081445
+17                       Bkm Industries Limited  0.080000
+18                              Arshiya Limited  0.078652
+19                     Refex Industries Limited  0.078289
+20                   GTL Infrastructure Limited  0.076923
+21               Indiabulls Real Estate Limited  0.076870
+22               Lancer Container Lines Limited  0.076692
+23                             Airo Lam limited  0.074692
+24                  Autoline Industries Limited  0.072747
+Result 7
+Bhavcopy data is for data: 2022-10-17
+                                NAME OF COMPANY     GAINS
+0                     SecUR Credentials Limited  0.157685
+1                          JSW Holdings Limited  0.155084
+2                    Hester Biosciences Limited  0.112095
+3                              Akg Exim Limited  0.101242
+4        Harsha Engineers International Limited  0.081111
+5   Transformers And Rectifiers (India) Limited  0.079646
+6               Isgec Heavy Engineering Limited  0.072571
+7            Arvee Laboratories (India) Limited  0.072489
+8                         Shanthi Gears Limited  0.070618
+9                    Everest Industries Limited  0.067923
+10                                Emami Limited  0.065000
+11                          Digicontent Limited  0.064846
+12                                 KDDL Limited  0.057053
+13                      Medico Remedies Limited  0.055093
+14                     Westlife Development Ltd  0.052121
+15                       Rajesh Exports Limited  0.050919
+16             Eros International Media Limited  0.049624
+17                            TV Vision Limited  0.047619
+18                       Aurum PropTech Limited  0.046751
+19                           AVRO INDIA LIMITED  0.046121
+20                  Power Mech Projects Limited  0.041443
+21                     Techindia Nirman Limited  0.040404
+22                Metropolis Healthcare Limited  0.038488
+23               Bhagyanagar Properties Limited  0.037406
+24                            SKF India Limited  0.034986
+Result 8
+Bhavcopy data is for data: 2022-10-14
+                               NAME OF COMPANY     GAINS
+0                    Hindcon Chemicals Limited  0.152224
+1                          Indo Amines Limited  0.135135
+2                    DSJ Keep Learning Limited  0.104167
+3                        Liberty Shoes Limited  0.104164
+4                    Pennar Industries Limited  0.103599
+5                   Aditya Birla Money Limited  0.100426
+6        Dredging Corporation of India Limited  0.099938
+7                                RITES Limited  0.099595
+8                Rajdarshan Industries Limited  0.093604
+9                        Kritika Wires Limited  0.089372
+10                     Next Mediaworks Limited  0.088235
+11              Apollo Sindoori Hotels Limited  0.087625
+12                        PVP Ventures Limited  0.086420
+13                    Rama Steel Tubes Limited  0.084579
+14                  Vertoz Advertising Limited  0.080411
+15                Ortel Communications Limited  0.080000
+16                 Bedmutha Industries Limited  0.079942
+17                         Hotel Rugby Limited  0.075269
+18      Jindal Drilling And Industries Limited  0.073021
+19           Bombay Super Hybrid Seeds Limited  0.072471
+20             Servotech Power Systems Limited  0.072363
+21  Tree House Education & Accessories Limited  0.070513
+22                      Peninsula Land Limited  0.068670
+23                Religare Enterprises Limited  0.068003
+24                             Archies Limited  0.067916
+Result 9
+Bhavcopy data is for data: 2022-10-13
+                               NAME OF COMPANY     GAINS
+0                             Airo Lam limited  0.189389
+1                Macpower CNC Machines Limited  0.166839
+2             Universus Photo Imagings Limited  0.123542
+3               HeidelbergCement India Limited  0.120641
+4                 Sastasundar Ventures Limited  0.118889
+5   Kakatiya Cement Sugar & Industries Limited  0.117232
+6                  Shree Renuka Sugars Limited  0.113682
+7                    Jubilant Pharmova Limited  0.111058
+8                Gujarat Sidhee Cement Limited  0.109447
+9                            D P Wires Limited  0.103789
+10            Niraj Cement Structurals Limited  0.101161
+11                  TREJHARA SOLUTIONS LIMITED  0.100386
+12                 Autoline Industries Limited  0.098583
+13           IL&FS Investment Managers Limited  0.097561
+14                             Hubtown Limited  0.092342
+15                   Fineotex Chemical Limited  0.081979
+16                     Ram Ratna Wires Limited  0.081034
+17                      Vesuvius India Limited  0.079538
+18                      Sambhaav Media Limited  0.072165
+19              Lancer Container Lines Limited  0.071576
+20                 Onward Technologies Limited  0.071289
+21        Shreyas Shipping & Logistics Limited  0.067896
+22                        Bharat Gears Limited  0.067062
+23                        Metro Brands Limited  0.066466
+24                   JK Lakshmi Cement Limited  0.066153
+Result 10
+Bhavcopy data is for data: 2022-10-12
+                                      NAME OF COMPANY     GAINS
+0                                   LGB Forge Limited  0.248848
+1                           Vardhman Holdings Limited  0.209608
+2                 Tata Investment Corporation Limited  0.202983
+3                                 Aarvi Encon Limited  0.200000
+4                                JSW Holdings Limited  0.199225
+5                                Bharat Gears Limited  0.196667
+6                      Nalwa Sons Investments Limited  0.195630
+7                           Hindcon Chemicals Limited  0.189116
+8   MITCON Consultancy & Engineering Services Limited  0.154572
+9                           Snowman Logistics Limited  0.151798
+10                         Salzer Electronics Limited  0.150103
+11                   Jayaswal Neco Industries Limited  0.143885
+12                          JK Lakshmi Cement Limited  0.143025
+13                          Godrej Industries Limited  0.127594
+14                                        BPL Limited  0.124415
+15                     Kalyan Jewellers India Limited  0.121490
+16                           Satia Industries Limited  0.119619
+17                         Mahindra Logistics Limited  0.114796
+18                     Dynamatic Technologies Limited  0.112003
+19                          The India Cements Limited  0.111064
+20  Pilani Investment and Industries Corporation L...  0.109624
+21                      Shradha Infraprojects Limited  0.107664
+22                   Chaman Lal Setia Exports Limited  0.107370
+23                       Super Spinning Mills Limited  0.107317
+24                                    Vedanta Limited  0.107246
+Result 11
+Bhavcopy data is for data: 2022-10-11
+                                NAME OF COMPANY     GAINS
+0      Triveni Engineering & Industries Limited  0.187729
+1                         Indo-National Limited  0.184457
+2                   Asian Hotels (East) Limited  0.137793
+3            Manaksia Aluminium Company Limited  0.134396
+4   Transformers And Rectifiers (India) Limited  0.121012
+5                       Hercules Hoists Limited  0.116923
+6                       Deep Industries Limited  0.108200
+7             Nuvoco Vistas Corporation Limited  0.105549
+8                          Jindal Photo Limited  0.099357
+9                   Power Mech Projects Limited  0.099012
+10               Shemaroo Entertainment Limited  0.097917
+11          Aakash Exploration Services Limited  0.097826
+12                    Meghmani Finechem Limited  0.096776
+13            Silly Monks Entertainment Limited  0.094812
+14                     Alicon Castalloy Limited  0.094432
+15                       Ambuja Cements Limited  0.092650
+16                           SPML Infra Limited  0.089595
+17                 Hilton Metal Forging Limited  0.087140
+18                   Ortin Laboratories Limited  0.085202
+19                        Dish TV India Limited  0.083871
+20                    The India Cements Limited  0.081530
+21                    Wonderla Holidays Limited  0.078426
+22                              Borosil Limited  0.076583
+23                              MODISON LIMITED  0.076429
+24                             Jai Corp Limited  0.076271
+Result 12
+Bhavcopy data is for data: 2022-10-10
+                             NAME OF COMPANY     GAINS
+0            Xelpmoc Design And Tech Limited  0.174648
+1                           Weizmann Limited  0.170213
+2                 Everest Industries Limited  0.144189
+3                Naga Dhunseri Group Limited  0.132356
+4                   Ravinder Heights Limited  0.113022
+5            One Point One Solutions Limited  0.111588
+6                   Gokaldas Exports Limited  0.108731
+7        International Constructions Limited  0.104555
+8                                HEG Limited  0.104320
+9                         JSW Energy Limited  0.102167
+10           Indian Terrain Fashions Limited  0.097859
+11               Greenlam Industries Limited  0.097350
+12                 DRC Systems India Limited  0.093156
+13    Hindustan Construction Company Limited  0.092937
+14                            Seamec Limited  0.092265
+15                       Sonam Clock Limited  0.092033
+16                              ICDS Limited  0.091298
+17  Butterfly Gandhimathi Appliances Limited  0.089817
+18                   Ritco Logistics Limited  0.089655
+19             Jaiprakash Associates Limited  0.087719
+20          Lakshmi Precision Screws Limited  0.083333
+21                            Ashima Limited  0.082781
+22               Venus Pipes & Tubes Limited  0.081266
+23              Murudeshwar Ceramics Limited  0.080960
+24             DEEP ENERGY RESOURCES LIMITED  0.078176
+Result 13
+Bhavcopy data is for data: 2022-10-07
+                                  NAME OF COMPANY     GAINS
+0                        Ravinder Heights Limited  0.184524
+1                         Magnum Ventures Limited  0.183206
+2                          Zenith Exports Limited  0.182331
+3   Garden Reach Shipbuilders & Engineers Limited  0.164102
+4                       Palash Securities Limited  0.159302
+5                         Brightcom Group Limited  0.121786
+6                               Black Box Limited  0.119546
+7                         Anik Industries Limited  0.115144
+8            Pritish Nandy Communications Limited  0.113636
+9                Universus Photo Imagings Limited  0.113334
+10                 Apollo Sindoori Hotels Limited  0.105537
+11                               Airo Lam limited  0.101000
+12                          Rossell India Limited  0.099286
+13                          De Nora India Limited  0.098571
+14      Nagreeka Capital & Infrastructure Limited  0.097345
+15                  Electrosteel Castings Limited  0.097260
+16                                Borosil Limited  0.096429
+17                   Neuland Laboratories Limited  0.094897
+18            Industrial Investment Trust Limited  0.094650
+19                Shriram Pistons & Rings Limited  0.093034
+20             Honda India Power Products Limited  0.085000
+21                   Dhampur Bio Organics Limited  0.080968
+22                        Hercules Hoists Limited  0.078866
+23                                 Aptech Limited  0.076394
+24                One Point One Solutions Limited  0.076087
+Result 14
+Bhavcopy data is for data: 2022-10-06
+                                   NAME OF COMPANY     GAINS
+0                             Bharat Gears Limited  0.164685
+1                              Jtekt India Limited  0.157606
+2                        SecUR Credentials Limited  0.136973
+3                            Liberty Shoes Limited  0.126582
+4           Hindustan Construction Company Limited  0.123077
+5      Prudent Corporate Advisory Services Limited  0.119750
+6                     Archidply Industries Limited  0.106563
+7                Shivalik Bimetal Controls Limited  0.102613
+8                                 Airo Lam limited  0.102308
+9                          Arvind Fashions Limited  0.102230
+10                        Dynemic Products Limited  0.093036
+11               Gujarat Apollo Industries Limited  0.087087
+12                      Kirloskar Brothers Limited  0.083844
+13                     Shree Renuka Sugars Limited  0.083029
+14                     Aster DM Healthcare Limited  0.082721
+15  The State Trading Corporation of India Limited  0.080859
+16                        Prakash Steelage Limited  0.076923
+17                    Rajratan Global Wire Limited  0.076638
+18      The Great Eastern Shipping Company Limited  0.075479
+19       Usha Martin Education & Solutions Limited  0.075000
+20          Eurotex Industries and Exports Limited  0.074627
+21               Silly Monks Entertainment Limited  0.071560
+22                          JBF Industries Limited  0.070093
+23                           Filatex India Limited  0.069837
+24        Lotus Eye Hospital and Institute Limited  0.069231
+Result 15
+Bhavcopy data is for data: 2022-10-04
+                                  NAME OF COMPANY     GAINS
+0                       Hindcon Chemicals Limited  0.152688
+1                                 Raymond Limited  0.136072
+2            Pritish Nandy Communications Limited  0.104950
+3                                JBM Auto Limited  0.104534
+4                    Pressman Advertising Limited  0.100211
+5                    Genus Paper & Boards Limited  0.099099
+6                   Kirloskar Oil Engines Limited  0.097179
+7                       Debock Industries Limited  0.095327
+8                    Apollo Micro Systems Limited  0.092857
+9                                Atlanta  Limited  0.089674
+10                     Shree Ram Proteins Limited  0.089096
+11                       Ravinder Heights Limited  0.088462
+12                            Aarvi Encon Limited  0.083362
+13                          Indo-National Limited  0.083256
+14                       Gayatri Projects Limited  0.081197
+15  Garden Reach Shipbuilders & Engineers Limited  0.080745
+16                            La Opala RG Limited  0.077591
+17                             Vimta Labs Limited  0.073417
+18                 United Polyfab Gujarat Limited  0.072727
+19                         Maan Aluminium Limited  0.070796
+20                       Panache Digilife Limited  0.067708
+21                                 WE WIN LIMITED  0.066969
+22                      Sanwaria Consumer Limited  0.066667
+23              Mazagon Dock Shipbuilders Limited  0.065371
+24                Indian Terrain Fashions Limited  0.062625
+Result 16
+Bhavcopy data is for data: 2022-10-03
+                                NAME OF COMPANY     GAINS
+0   Transformers And Rectifiers (India) Limited  0.198999
+1                                  CEAT Limited  0.196256
+2                  The Grob Tea Company Limited  0.194765
+3                Indo Tech Transformers Limited  0.180808
+4            Keynote Financial Services Limited  0.179136
+5                  JK Tyre & Industries Limited  0.173995
+6                              Weizmann Limited  0.154220
+7             IL&FS Investment Managers Limited  0.150000
+8                     Worth Peripherals Limited  0.145080
+9                       Fiem Industries Limited  0.125236
+10                      PTL Enterprises Limited  0.123077
+11             Muthoot Capital Services Limited  0.118857
+12                        TVS Srichakra Limited  0.111320
+13                     Parag Milk Foods Limited  0.098396
+14            Geojit Financial Services Limited  0.097409
+15                    Hindcon Chemicals Limited  0.094930
+16            Silly Monks Entertainment Limited  0.093625
+17                    Dollar Industries Limited  0.090488
+18                  Bharat Road Network Limited  0.087770
+19                  Power Mech Projects Limited  0.083690
+20                         Mayur Uniquoters Ltd  0.080968
+21                       Goodyear India Limited  0.079078
+22              Touchwood Entertainment Limited  0.078919
+23                     Setco Automotive Limited  0.077236
+24                         Welspun Corp Limited  0.077190
+Result 17
+Bhavcopy data is for data: 2022-09-30
+                                  NAME OF COMPANY     GAINS
+0                        Refex Industries Limited  0.211975
+1                  Coffee Day Enterprises Limited  0.187668
+2                  Shemaroo Entertainment Limited  0.184093
+3                                D.B.Corp Limited  0.182895
+4                       GPT Infraprojects Limited  0.181538
+5                    Intense Technologies Limited  0.168033
+6              BLS International Services Limited  0.146394
+7               Gujarat Apollo Industries Limited  0.145204
+8                    Tarapur Transformers Limited  0.135922
+9                      MBL Infrastructure Limited  0.135135
+10                    SMS Pharmaceuticals Limited  0.134684
+11                       Gayatri Projects Limited  0.132159
+12                       Zota Health Care LImited  0.130776
+13                                   KRBL Limited  0.127393
+14                   Maharashtra Scooters Limited  0.122800
+15            Mangalam Drugs And Organics Limited  0.110728
+16                             PB Fintech Limited  0.108811
+17                Touchwood Entertainment Limited  0.107211
+18  The Dharamsi Morarji Chemical Company Limited  0.105806
+19            Tata Investment Corporation Limited  0.105491
+20                              Vakrangee Limited  0.104878
+21                   New Delhi Television Limited  0.103234
+22                        Rama Phosphates Limited  0.100323
+23      Sree Rayalaseema Hi-Strength Hypo Limited  0.098877
+24           Pritish Nandy Communications Limited  0.096597
+Result 18
+Bhavcopy data is for data: 2022-09-29
+                                      NAME OF COMPANY     GAINS
+0        Tourism Finance Corporation of India Limited  0.202724
+1                             Hind Rectifiers Limited  0.200207
+2                            Gayatri Highways Limited  0.142857
+3                               Liberty Shoes Limited  0.124741
+4   Kaushalya Infrastructure Development Corporati...  0.111111
+5                             Arvind Fashions Limited  0.092145
+6                                VIP Clothing Limited  0.086604
+7                           DRC Systems India Limited  0.079339
+8                                    Airo Lam limited  0.073232
+9                                      Pricol Limited  0.068413
+10                         Go Fashion (India) Limited  0.066961
+11                      Reliance Home Finance Limited  0.066667
+12                              Dish TV India Limited  0.066474
+13                    Indian Terrain Fashions Limited  0.059736
+14                               Khadim India Limited  0.058929
+15       Sterling and Wilson Renewable Energy Limited  0.057756
+16                             Zenith Exports Limited  0.057398
+17                                CSL Finance Limited  0.056250
+18                               Ador Welding Limited  0.055944
+19              Solara Active Pharma Sciences Limited  0.055536
+20  IL&FS Engineering and Construction Company Lim...  0.055215
+21                             Gyscoal Alloys Limited  0.053571
+22                         Remsons Industries Limited  0.053138
+23                                 Antarctica Limited  0.052632
+24      Krishna Institute of Medical Sciences Limited  0.052144
+Result 19
+Bhavcopy data is for data: 2022-09-28
+                                 NAME OF COMPANY     GAINS
+0                 United Polyfab Gujarat Limited  0.157647
+1                        Ram Ratna Wires Limited  0.155750
+2                             Omax Autos Limited  0.132675
+3             Diligent Media Corporation Limited  0.117647
+4                     Everest Industries Limited  0.105996
+5              Bombay Super Hybrid Seeds Limited  0.104645
+6                   Pressman Advertising Limited  0.102207
+7     North Eastern Carrying Corporation Limited  0.102041
+8                  JMC Projects (India)  Limited  0.101668
+9                        Next Mediaworks Limited  0.098039
+10                         Liberty Shoes Limited  0.092184
+11                  Excel Realty N Infra Limited  0.090909
+12                Kothari Petrochemicals Limited  0.084373
+13            Dev Information Technology Limited  0.079397
+14                     Palash Securities Limited  0.078337
+15           Rajshree Sugars & Chemicals Limited  0.075362
+16                R. S. Software (India) Limited  0.072761
+17                            SPML Infra Limited  0.071429
+18        Jindal Drilling And Industries Limited  0.070961
+19                      Gayatri Projects Limited  0.069767
+20                       Paisalo Digital Limited  0.061448
+21  KCP Sugar and Industries Corporation Limited  0.059603
+22                   Dreamfolks Services Limited  0.059054
+23                       Gulshan Polyols Limited  0.058860
+24                        Zenith Exports Limited  0.058439
+Result 20
+Bhavcopy data is for data: 2022-09-27
+                                      NAME OF COMPANY     GAINS
+0                         Mcleod Russel India Limited  0.182195
+1   MITCON Consultancy & Engineering Services Limited  0.139460
+2                      Global Vectra Helicorp Limited  0.112554
+3       Ambica Agarbathies & Aroma industries Limited  0.085766
+4                               Shyam Telecom Limited  0.085714
+5                              TCI Developers Limited  0.082603
+6                    Paramount Communications Limited  0.081633
+7              Eurotex Industries and Exports Limited  0.080569
+8                                Emami Realty Limited  0.073548
+9                      Iifl Wealth Management Limited  0.068360
+10                          Signet Industries Limited  0.067536
+11                         Mishra Dhatu Nigam Limited  0.064938
+12                           Karur Vysya Bank Limited  0.064706
+13                          Fairchem Organics Limited  0.060298
+14                    Sumitomo Chemical India Limited  0.058473
+15                                   3M India Limited  0.057897
+16                            Bharat Dynamics Limited  0.057834
+17                         Easy Trip Planners Limited  0.057634
+18     The United Nilgiri Tea Estates Company Limited  0.056356
+19                        Asian Hotels (East) Limited  0.056081
+20                    Total Transport Systems Limited  0.055000
+21                                    Raymond Limited  0.052982
+22                                 Antarctica Limited  0.052632
+23                          Wonderla Holidays Limited  0.052343
+24                           Westlife Development Ltd  0.052283
+Result 21
+Bhavcopy data is for data: 2022-09-26
+                             NAME OF COMPANY     GAINS
+0                             Kopran Limited  0.114898
+1   Flexituff Ventures International Limited  0.112811
+2               Excel Realty N Infra Limited  0.111111
+3             AXISCADES Technologies Limited  0.103272
+4                 Visesh Infotecnics Limited  0.100000
+5                     Finolex Cables Limited  0.097472
+6                    Elgi Equipments Limited  0.088053
+7              Shradha Infraprojects Limited  0.086957
+8                    Visagar Polytex Limited  0.083333
+9                  KPIT Technologies Limited  0.082814
+10                      Exxaro Tiles Limited  0.081890
+11               SVP GLOBAL TEXTILES LIMITED  0.080827
+12                    Megastar Foods Limited  0.078539
+13          Lakshmi Precision Screws Limited  0.076923
+14                  Nandani Creation Limited  0.070871
+15               Oil Country Tubular Limited  0.066667
+16                          Airo Lam limited  0.066601
+17   South West Pinnacle Exploration Limited  0.065896
+18     IL&FS Transportation Networks Limited  0.063291
+19            Raj Television Network Limited  0.063263
+20        Spacenet Enterprises India Limited  0.061584
+21                          D.B.Corp Limited  0.061443
+22           Vardhman Special Steels Limited  0.061250
+23        Omkar Speciality Chemicals Limited  0.059226
+24          The Jammu & Kashmir Bank Limited  0.057994
+Result 22
+Bhavcopy data is for data: 2022-09-23
+                       NAME OF COMPANY     GAINS
+0               Iris Clothings Limited  0.196842
+1                Liberty Shoes Limited  0.183544
+2            Worth Peripherals Limited  0.154348
+3                 Sreeleathers Limited  0.135266
+4                 Khadim India Limited  0.129676
+5   Mangalam Global Enterprise Limited  0.119118
+6    Shivalik Bimetal Controls Limited  0.118098
+7       Apollo Sindoori Hotels Limited  0.109095
+8    Sundaram Finance Holdings Limited  0.108475
+9     Bhandari Hosiery Exports Limited  0.106796
+10        New Delhi Television Limited  0.104852
+11                     Hubtown Limited  0.104478
+12           SecUR Credentials Limited  0.102900
+13     Vinyl Chemicals (India) Limited  0.102551
+14            Kshitij Polyline Limited  0.100917
+15         Autoline Industries Limited  0.099772
+16           The India Cements Limited  0.097588
+17      Lypsa Gems & Jewellery Limited  0.093458
+18        Tantia Constructions Limited  0.090278
+19       Garware Hi-Tech Films Limited  0.089042
+20             Infomedia Press Limited  0.086022
+21                         ITI Limited  0.084623
+22    Paramount Communications Limited  0.083871
+23     Total Transport Systems Limited  0.083466
+24             Next Mediaworks Limited  0.083333
+Result 23
+Bhavcopy data is for data: 2022-09-22
+                                      NAME OF COMPANY     GAINS
+0                                      Pricol Limited  0.166163
+1                      Apollo Sindoori Hotels Limited  0.140082
+2        Sun Pharma Advanced Research Company Limited  0.138424
+3                        Apollo Micro Systems Limited  0.106271
+4                              Kohinoor Foods Limited  0.099906
+5                            Oswal Agro Mills Limited  0.097784
+6                   IL&FS Investment Managers Limited  0.084337
+7                               Rane (Madras) Limited  0.081538
+8                                  Esab India Limited  0.077870
+9                        Barak Valley Cements Limited  0.077586
+10                    Touchwood Entertainment Limited  0.076884
+11                      Suven Pharmaceuticals Limited  0.074679
+12  The Peria Karamalai Tea & Produce Company Limited  0.073084
+13                                  JTL Infra Limited  0.073061
+14                        Aurionpro Solutions Limited  0.071522
+15                           Gayatri Highways Limited  0.071429
+16                              Dish TV India Limited  0.071429
+17                                   Airo Lam limited  0.071059
+18            Wealth First Portfolio Managers Limited  0.070242
+19                 Marine Electricals (India) Limited  0.067742
+20                        Brooks Laboratories Limited  0.065280
+21                              Prism Johnson Limited  0.060830
+22                               Emami Realty Limited  0.060257
+23                                      RITES Limited  0.058497
+24                           Nandani Creation Limited  0.056250
+Result 24
+Bhavcopy data is for data: 2022-09-21
+                              NAME OF COMPANY     GAINS
+0             Touchwood Entertainment Limited  0.104287
+1                Maheshwari Logistics Limited  0.103426
+2           Gokul Refoils and Solvent Limited  0.091205
+3           Sundaram Finance Holdings Limited  0.090856
+4             Tembo Global Industries Limited  0.086716
+5          Energy Development Company Limited  0.078378
+6                           JTL Infra Limited  0.074654
+7                    Windsor Machines Limited  0.073298
+8                    Gayatri Highways Limited  0.071429
+9                   Sanwaria Consumer Limited  0.062500
+10  Schneider Electric Infrastructure Limited  0.057109
+11               Thomas Scott (India) Limited  0.056430
+12      Tamil Nadu Newsprint & Papers Limited  0.055714
+13                    Hind Rectifiers Limited  0.054792
+14                     Kuantum Papers Limited  0.052939
+15       Som Distilleries & Breweries Limited  0.049858
+16                   MIRC Electronics Limited  0.049853
+17   Butterfly Gandhimathi Appliances Limited  0.049846
+18             Ice Make Refrigeration Limited  0.049807
+19                             WE WIN LIMITED  0.049788
+20                       JM Financial Limited  0.048917
+21           Onelife Capital Advisors Limited  0.048193
+22                          TV Vision Limited  0.047619
+23              Shradha Infraprojects Limited  0.046329
+24                   Wonder Fibromats Limited  0.045855
+Result 25
+Bhavcopy data is for data: 2022-09-20
+                              NAME OF COMPANY     GAINS
+0                     TVS Electronics Limited  0.159864
+1                         Digicontent Limited  0.157534
+2              Shemaroo Entertainment Limited  0.148334
+3                Camlin Fine Sciences Limited  0.141295
+4   Hindustan Oil Exploration Company Limited  0.120867
+5                            Atlanta  Limited  0.117904
+6                      IFB Industries Limited  0.106966
+7                       NK Industries Limited  0.103352
+8                    Regency Ceramics Limited  0.102970
+9         Focus Lighting and Fixtures Limited  0.096025
+10                       GSS Infotech Limited  0.088333
+11                Asian Hotels (East) Limited  0.086557
+12                     Salona Cotspin Limited  0.082642
+13                           Akg Exim Limited  0.082537
+14            Gujarat Lease Financing Limited  0.080000
+15                           Weizmann Limited  0.079719
+16                     Crest Ventures Limited  0.078425
+17                Oil Country Tubular Limited  0.078292
+18              Asian Energy Services Limited  0.076289
+19               Norben Tea & Exports Limited  0.075758
+20               Apollo Micro Systems Limited  0.075227
+21                     Kohinoor Foods Limited  0.072064
+22                    Brightcom Group Limited  0.066578
+23                  Hindcon Chemicals Limited  0.064305
+24                  Pennar Industries Limited  0.062076
+Result 26
+Bhavcopy data is for data: 2022-09-19
+                         NAME OF COMPANY     GAINS
+0    California Software Company Limited  0.197832
+1           Gokul Agro Resources Limited  0.168485
+2                   Bharat Gears Limited  0.164964
+3         AXISCADES Technologies Limited  0.150135
+4               Wonder Fibromats Limited  0.146211
+5              Debock Industries Limited  0.102941
+6         DCM Financial Services Limited  0.101010
+7               Alicon Castalloy Limited  0.098475
+8                Agro Phos India Limited  0.094767
+9       Satin Creditcare Network Limited  0.094318
+10            HEC Infra Projects Limited  0.087171
+11                  Jindal Photo Limited  0.085189
+12        Nalwa Sons Investments Limited  0.083442
+13        Electronics Mart India Limited  0.080186
+14                           HLV LIMITED  0.078947
+15      Bharat Heavy Electricals Limited  0.077409
+16                     Beardsell Limited  0.075650
+17                       Nelcast Limited  0.075203
+18  Indo Rama Synthetics (India) Limited  0.074336
+19      Lloyds Steels Industries Limited  0.074219
+20      The Jammu & Kashmir Bank Limited  0.073883
+21              Karur Vysya Bank Limited  0.073495
+22         Data Patterns (India) Limited  0.073428
+23        Ingersoll Rand (India) Limited  0.072965
+24                JBF Industries Limited  0.072464
+Result 27
+Bhavcopy data is for data: 2022-09-16
+                              NAME OF COMPANY     GAINS
+0         California Software Company Limited  0.174020
+1                         Digicontent Limited  0.144543
+2                               Bank of India  0.104697
+3                    Regency Ceramics Limited  0.102996
+4   Nagreeka Capital & Infrastructure Limited  0.094595
+5                      Piramal Pharma Limited  0.093810
+6                     NACL Industries Limited  0.092732
+7               The South Indian Bank Limited  0.086777
+8   Multi Commodity Exchange of India Limited  0.085166
+9                              Nureca Limited  0.080121
+10                  Mahalaxmi Rubtech Limited  0.079479
+11           The Jammu & Kashmir Bank Limited  0.076479
+12                    Adroit Infotech Limited  0.074534
+13                      Mahanagar Gas Limited  0.074330
+14                     Bharat Rasayan Limited  0.069480
+15               Rajratan Global Wire Limited  0.068347
+16     Eurotex Industries and Exports Limited  0.068293
+17                    Hind Rectifiers Limited  0.067981
+18                   CMS Info Systems Limited  0.066249
+19                   Refex Industries Limited  0.065646
+20                   Indraprastha Gas Limited  0.064499
+21                     KEI Industries Limited  0.063919
+22           Bharat Heavy Electricals Limited  0.063575
+23                 Salzer Electronics Limited  0.063495
+24                        Modi Rubber Limited  0.063043
+Result 28
+Bhavcopy data is for data: 2022-09-15
+                                      NAME OF COMPANY     GAINS
+0                                         CMI Limited  0.190805
+1                                         BSL Limited  0.176712
+2                             Cochin Shipyard Limited  0.105695
+3                               Kritika Wires Limited  0.103960
+4                                PVP Ventures Limited  0.096386
+5                             Deep Industries Limited  0.096067
+6                  Arvee Laboratories (India) Limited  0.090426
+7                             Triveni Turbine Limited  0.087234
+8                                  NXTDIGITAL LIMITED  0.087215
+9                           Hindcon Chemicals Limited  0.087179
+10  IL&FS Engineering and Construction Company Lim...  0.086379
+11                       Morepen Laboratories Limited  0.084711
+12         Tree House Education & Accessories Limited  0.083942
+13          Sab Events & Governance Now Media Limited  0.081301
+14                          Jay Bharat Maruti Limited  0.080966
+15                       Excel Realty N Infra Limited  0.076923
+16                              Vaxtex Cotfab Limited  0.075269
+17                           Gayatri Highways Limited  0.071429
+18                         Shree Ram Proteins Limited  0.071121
+19                            Oriental Hotels Limited  0.068780
+20                            Archidply Decor Limited  0.067857
+21                               Viji Finance Limited  0.066667
+22                             VIP Industries Limited  0.066642
+23                  Safari Industries (India) Limited  0.065999
+24                                      Lupin Limited  0.063476
+Result 29
+Bhavcopy data is for data: 2022-09-14
+                                 NAME OF COMPANY     GAINS
+0                      Heads UP Ventures Limited  0.183761
+1          Dredging Corporation of India Limited  0.141914
+2           Kothari Sugars And Chemicals Limited  0.129780
+3                       HB Stockholdings Limited  0.128405
+4            Max Ventures and Industries Limited  0.127283
+5                      Himatsingka Seide Limited  0.116580
+6                      HBL Power Systems Limited  0.105593
+7                       Universal Cables Limited  0.104386
+8                Indian Terrain Fashions Limited  0.103064
+9                    Autoline Industries Limited  0.101061
+10                 Jaiprakash Associates Limited  0.097938
+11                Everest Kanto Cylinder Limited  0.092940
+12                        Kuantum Papers Limited  0.091791
+13                 A2Z Infra Engineering Limited  0.091346
+14             Orient Paper & Industries Limited  0.087227
+15                      Mindteck (India) Limited  0.085271
+16                         Banaras Beads Limited  0.084994
+17                        Ajooni Biotech Limited  0.084848
+18              Satin Creditcare Network Limited  0.083928
+19                    Visesh Infotecnics Limited  0.083333
+20                  Norben Tea & Exports Limited  0.080882
+21                          Jindal Photo Limited  0.079106
+22                      Ravinder Heights Limited  0.077922
+23  Fertilizers and Chemicals Travancore Limited  0.076990
+24                  Dhampur Bio Organics Limited  0.076580
+Result 30
+Bhavcopy data is for data: 2022-09-13
+                                   NAME OF COMPANY     GAINS
+0              Max Ventures and Industries Limited  0.172752
+1                         Gayatri Projects Limited  0.166667
+2                          Hindustan Foods Limited  0.158889
+3                              Shiva Mills Limited  0.153057
+4                           Akshar Spintex Limited  0.146593
+5                      Lambodhara Textiles Limited  0.137392
+6                     Murudeshwar Ceramics Limited  0.123077
+7                   Globe Textiles (India) Limited  0.121495
+8                          Apar Industries Limited  0.112528
+9                            Indo-National Limited  0.110224
+10                             Dangee Dums Limited  0.094595
+11                     Power Mech Projects Limited  0.088098
+12                         MIC Electronics Limited  0.086207
+13                         Sportking India Limited  0.082557
+14                        MIRC Electronics Limited  0.082111
+15              Dhruv Consultancy Services Limited  0.081688
+16                               Delhivery Limited  0.079818
+17                     Paradeep Phosphates Limited  0.074074
+18                           Bang Overseas Limited  0.073939
+19                                  Aptech Limited  0.073872
+20                               Lyka Labs Limited  0.073810
+21  Mahindra & Mahindra Financial Services Limited  0.071658
+22                               Vakrangee Limited  0.070248
+23               Mazagon Dock Shipbuilders Limited  0.069712
+24                                    KDDL Limited  0.068098
+                                      NAME OF COMPANY     GAINS
+0               Dc Infotech And Communication Limited  1.138679
+1                            Kshitij Polyline Limited  0.946672
+2                              Zenith Exports Limited  0.856863
+3                      United Polyfab Gujarat Limited  0.808729
+4                            Gayatri Projects Limited  0.601190
+5                        Gokul Agro Resources Limited  0.596571
+6                                   TV Vision Limited  0.543478
+7                       Shradha Infraprojects Limited  0.489189
+8           Ansal Properties & Infrastructure Limited  0.482500
+9            Melstar Information Technologies Limited  0.473684
+10  Jindal Poly Investment and Finance Company Lim...  0.461749
+11                                  Atul Auto Limited  0.461740
+12                             D-Link (India) Limited  0.461085
+13                 Fourth Dimension Solutions Limited  0.452720
+14                       Murudeshwar Ceramics Limited  0.441026
+15                 Omkar Speciality Chemicals Limited  0.435897
+16                           Techindia Nirman Limited  0.410628
+17                             Megastar Foods Limited  0.395619
+18                           Wonder Fibromats Limited  0.388111
+19                      The South Indian Bank Limited  0.376963
+20                 The Western India Plywoods Limited  0.376923
+21                     AXISCADES Technologies Limited  0.367270
+22                              Indo-National Limited  0.366246
+23                       HPL Electric & Power Limited  0.363702
+24                Focus Lighting and Fixtures Limited  0.363549
